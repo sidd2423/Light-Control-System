@@ -6,11 +6,11 @@ import java.io.IOException;
 import javax.swing.*;
 
 public class majorFrame extends JFrame implements ActionListener {
-    public Main main;// creating an instance of Main class
+    public Main main;
 
     majorFrame() throws IOException, InterruptedException {
 
-        main = new Main();//instance of Main class created to call the boolean variable.
+        main = new Main();
 
 
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
