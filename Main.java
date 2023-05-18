@@ -1,4 +1,4 @@
-package EECS1021;
+
 import org.firmata4j.I2CDevice;
 import org.firmata4j.Pin;
 import org.firmata4j.firmata.FirmataDevice;
